@@ -76,4 +76,4 @@ By completing the simulation, students are able to:
 ---
 ## Suggested Citation
 
-Díaz Tautiva, J.A. (2026). *DecisionVenture1 — Innovation Metrics Decision Simulator*. Managerial Economics teaching simulator.
+Díaz Tautiva, J. A. (2026). DecisionVenture 1 — Innovation metrics decision simulator [Interactive teaching simulator]. https://jdtautiva.github.io/DecisionVenture1/
